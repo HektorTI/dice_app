@@ -1,0 +1,25 @@
+import 'package:dice_app/style_text.dart';
+import 'package:flutter/material.dart';
+
+class GradientContainer extends StatelessWidget {
+  const GradientContainer({super.key});
+
+  @override
+  Widget build(context) {
+    return Container(
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          colors: [
+            const Color.fromARGB(255, 93, 41, 184),
+            const Color.fromARGB(255, 53, 144, 136).withBlue(150),
+          ],
+          begin: Alignment.topLeft,
+          end: Alignment.centerRight,
+        ),
+      ),
+      child: const Center(
+        child: StyleText(),
+      ),
+    );
+  }
+}
