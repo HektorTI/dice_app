@@ -1,6 +1,7 @@
 # dice_app
 
-![Screenshot 2023-09-27 at 15 44 28](https://github.com/HektorTI/dice_app/assets/142464152/9f5418ae-2852-4165-a04b-5261e083e65c)
+![Screenshot 2023-09-27 at 15 48 09](https://github.com/HektorTI/dice_app/assets/142464152/9be571c5-b550-47e0-95c0-cd26ddc46e3c)
+
 
 Criei um app que fundamentou meu conceitos em criar classes separadas. Também me ajudou a fixar a diferença entre const, que a acontece no tempo de compilação e final que acontece em tempo de execução, apesar de estar familiarizado com as variáveis sentia um pouco de dificuldade em entender a diferença real entre eles. Fiz uma explicação que acredito ser fácil entendimento. 
 
