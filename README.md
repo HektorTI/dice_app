@@ -1,24 +1,8 @@
 # dice_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 ![Screenshot 2023-09-27 at 15 44 28](https://github.com/HektorTI/dice_app/assets/142464152/9f5418ae-2852-4165-a04b-5261e083e65c)
 
-Criei um app que fundamentou meu conceitos em criar classes separadas. Também me ajudou a fixar a diferença entra const, que a acontece no tempo de compilação e final que acontece em tempo de execução, apesar de estar familiarizado com as variáveis sentia um pouco de dificuldade em entender a diferença real entre eles. Fiz uma explicação que acredito ser fácil entendimento. 
+Criei um app que fundamentou meu conceitos em criar classes separadas. Também me ajudou a fixar a diferença entre const, que a acontece no tempo de compilação e final que acontece em tempo de execução, apesar de estar familiarizado com as variáveis sentia um pouco de dificuldade em entender a diferença real entre eles. Fiz uma explicação que acredito ser fácil entendimento. 
 
  const / final types explanation : 
 
